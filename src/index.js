@@ -4,7 +4,7 @@ import templateUser from './hbs/user.hbs';
 
 
 
-
+let lab2 = 2;
 
 let appEl = document.getElementById("app");
 
